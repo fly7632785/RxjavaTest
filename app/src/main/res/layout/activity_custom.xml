@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <com.jafir.rxjavatest.wigdet.TranslationSearchView
+        android:id="@+id/translation"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/colorPrimary"
+            android:gravity="bottom"
+            android:text="bbbbbb" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@color/colorAccent"
+                    android:gravity="bottom"
+                    android:text="aaaaaaa" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@color/colorAccent"
+                    android:gravity="bottom"
+                    android:text="aaaaaaa" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@color/colorAccent"
+                    android:gravity="bottom"
+                    android:text="aaaaaaa" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@color/colorAccent"
+                    android:gravity="bottom"
+                    android:text="aaaaaaa" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:background="@color/colorAccent"
+                    android:gravity="bottom"
+                    android:text="aaaaaaa" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:background="@color/colorAccent"
+                    android:gravity="bottom"
+                    android:text="aaaaaaa" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:background="@color/colorAccent"
+                    android:gravity="bottom"
+                    android:text="aaaaaaa" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:background="@color/colorAccent"
+                    android:gravity="bottom"
+                    android:text="aaaaaaa" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:background="@color/colorAccent"
+                    android:gravity="bottom"
+                    android:text="aaaaaaa" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:background="@color/colorAccent"
+                    android:gravity="bottom"
+                    android:text="aaaaaaa" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:background="@color/colorAccent"
+                    android:gravity="bottom"
+                    android:text="aaaaaaa" />
+            </LinearLayout>
+
+        </ScrollView>
+
+
+    </com.jafir.rxjavatest.wigdet.TranslationSearchView>
+
+</LinearLayout>

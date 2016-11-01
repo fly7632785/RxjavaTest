@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RxjavaTest.iml" filepath="$PROJECT_DIR$/RxjavaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chart/chart.iml" filepath="$PROJECT_DIR$/chart/chart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytestscroll/mytestscroll.iml" filepath="$PROJECT_DIR$/mytestscroll/mytestscroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testdelayloadfragment/testdelayloadfragment.iml" filepath="$PROJECT_DIR$/testdelayloadfragment/testdelayloadfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testvoicedetector/testvoicedetector.iml" filepath="$PROJECT_DIR$/testvoicedetector/testvoicedetector.iml" />
+    </modules>
+  </component>
+</project>

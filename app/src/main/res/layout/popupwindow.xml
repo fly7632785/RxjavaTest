@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/popup_window"
+    android:background="@android:color/white"
+    android:orientation="vertical" android:layout_width="170dp"
+    android:layout_height="150dp">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="标题"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="内容"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:id="@+id/positiveBtn"
+        android:text="buttom"
+        android:layout_height="wrap_content" />
+    <Button
+        android:layout_width="wrap_content"
+        android:id="@+id/negativeBtn"
+        android:text="buttom"
+        android:layout_height="wrap_content" />
+</LinearLayout>
